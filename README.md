@@ -1,3 +1,3 @@
-# Haskell-Libs
+# Haskell-CV
 
-A collection of programs for haskell
+A computer vision library built in Haskell
